@@ -1,4 +1,4 @@
-# Namaste Everyone 🙏!!
+# Namaste 🙏!!
 ![](https://visitor-badge.laobi.icu/badge?page_id=creative201347)
 [![Github](https://img.shields.io/github/followers/creative201347?label=Followers&style=social)](https://github.com/creative201347)
 
