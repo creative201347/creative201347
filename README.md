@@ -1,4 +1,5 @@
-# Namaste 🙏!!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7273A&center=true&vCenter=true&lines=Namaste+%F0%9F%99%8F" alt="Typing SVG" /></a>
+
 
 
 <div align="center">
@@ -17,6 +18,6 @@
 </div>
   
 <hr />
+![Snake animation](https://github.com/creative201347/creative201347/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=creative201347)
-[![Github](https://img.shields.io/github/followers/creative201347?label=Followers&style=social)](https://github.com/creative201347)
